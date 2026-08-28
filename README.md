@@ -1,47 +1,68 @@
-<h1 align="center">Hi, I'm Anastasiia Ukrajinská 👋</h1>
+<h1 align="center">Hi, I'm Anastasiia (Aiia) 👋</h1>
 
 <p align="center">
-  🎓 Management Student • Žilinská univerzita v Žiline  
-  🌍 Originally from Ukraine  
+  🔧 Freelance Excel &amp; Google Sheets Systems Consultant<br>
+  🌍 Ukraine
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ## 📌 About Me
-I am a management student with a solid foundation in organizing processes, coordinating teams, and working with structured information.  
-I graduated from *Fakhovyi College “Universum” of Borys Grinchenko Kyiv University* (Major: **Management / Organizational Activities**) and I am currently continuing my studies at *Žilinská univerzita v Žiline*.
 
-I enjoy building order out of chaos, improving workflows, and adapting quickly to new environments. My experience comes from academic projects, team coordination, and practical management tasks.
+I'm a freelance Excel & Google Sheets systems consultant based in Ukraine. I build schedules, working databases, and clear reporting systems for small businesses and teams whose data has slowly turned into one giant document — where finding anything takes longer than having no structure at all, and onboarding a new hire feels impossible.
+
+No bloated dashboards or unnecessary features — just systems that make the work easier.
+
+I've rebuilt a 50+ account Google Sheets reporting system that was silently returning wrong numbers, built a trainer-matching and pricing system, a client reporting system, and Notion systems too.
+
+<br>
 
 ---
+
+<br>
 
 ## 🛠️ What I Can Do
-- ✔️ Process planning and time-management  
-- ✔️ Coordination of team and academic projects  
-- ✔️ Deadline scheduling and task prioritization  
-- ✔️ Clear communication in small groups  
-- ✔️ Basic analytics and information structuring  
-- ✔️ Work with documentation and organizational materials  
+
+- Audit and fix broken formulas, reports, and dashboards
+- Build connected databases in Excel / Google Sheets
+- Automated, self-scaling reporting systems
+- Notion systems: databases, dashboards, workflows
+- Turn scattered data into something a new hire can actually use
+
+<br>
 
 ---
+
+<br>
 
 ## 🌱 Currently Developing
-I’m actively improving my:
-- communication skills  
-- problem-solving abilities  
-- responsibility in team settings  
-- organization of both personal tasks and teamwork  
-- ability to manage multiple simultaneous activities  
+
+- a repeatable audit process for messy client sheets
+- a small catalog of Excel/Sheets templates and systems
+- case studies documenting real before/after results
+
+<br>
 
 ---
+
+<br>
 
 ## 🎯 Goals
-- Grow as a manager with strong practical and analytical skills  
-- Learn to handle more complex workflows and long-term planning  
-- Build a portfolio demonstrating progression in management and software-related tasks  
+
+- Build a client base of small businesses that need structure, not more tools
+- Grow a portfolio of Excel/Sheets/Notion systems that speak for themselves
+- Turn "it worked once for one client" into a repeatable offer
+
+<br>
 
 ---
 
+<br>
+
 <p align="center">
-  <i>Thanks for visiting my profile! 🌼</i>
+  <i>Thanks for stopping by! 🌼</i>
 </p>
